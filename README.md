@@ -1,5 +1,6 @@
 # FEUP-CGRA-TPs
 Exercises and projects developed in the CGRA course unit
+<br/><b>Final Grade: 20</b>
 
 ### Project Infos
 * **Date:** 2nd Year, 2nd Semester, 2017/2018
